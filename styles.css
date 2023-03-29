@@ -1,7 +1,8 @@
 body{
     background-color:#D87C28;
     color:#FFFFFF;
-
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
  }
 
  h1{
@@ -28,7 +29,43 @@ body{
     top: 67px;
 }
 
-#textinho-do-lado{
-    
+#textinho-do-lado1{
+    position: absolute;
+    width: 266px;
+    height: 210px;
+    left: 806px;
+    top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
 }
+
+#textinho-do-lado2{
+    position: absolute;
+    width: 400px;
+    height: 210px;
+    left: 1027px;
+    top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+}
+
+#intro{
+    background-color: #ED8C33;
+    height: 200px;
+    color: #64342D;
+}
+
+#golden{
+    color: #64342D;
+
+}
+
  /*é do Gabriel*/
