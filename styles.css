@@ -58,13 +58,24 @@ body{
 }
 
 #intro{
-    background-color: #ED8C33;
+    background-color: #ffe3c9;
     height: 200px;
     color: #64342D;
 }
 
 #golden{
+    background-color: #ff9531;
     color: #64342D;
+    /*color: #ffe3c9;#ED8C33;*/
+    padding-right: 100px;
+    height: 280px;
+
+}
+
+
+
+#gif-golden{
+    float: right;
 
 }
 
