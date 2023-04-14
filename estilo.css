@@ -1,0 +1,119 @@
+body{
+    background-color:#D87C28;
+    color:#FFFFFF;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+ }
+
+ h1{
+    font-family: 'Montserrat', sans-serif;
+    color:#64342D;
+    font-size: 100px;
+    border: 50px solid #F3C9A2
+    
+
+ }
+
+#quadrado1{
+    width: 550px;
+    height: 225px;
+    background-color: #F3C9A2;
+
+}
+
+#imagem-do-dog{
+    position: absolute;
+    width: 225px;
+    height: 225px;
+    left: 500px;
+    top: 67px;
+}
+
+#textinho-do-lado1{
+    position: absolute;
+    width: 266px;
+    height: 210px;
+    left: 806px;
+    top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+}
+
+#textinho-do-lado2{
+    position: absolute;
+    width: 400px;
+    height: 210px;
+    left: 1027px;
+    top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+}
+
+#intro{
+    background-color: #ffe3c9;
+    height: 200px;
+    color: #64342D;
+}
+
+.tabela1{
+    background-color: #D87C28;
+}
+
+.tabela2{
+    background-color: #ff9531;
+}
+
+#golden{
+    background-color: #ff9531;
+    color: #64342D;
+    /*color: #ffe3c9;#ED8C33;*/
+    padding-right: 100px;
+    height: 330px;
+
+}
+
+
+
+#gif-golden{
+    float: right;
+
+}
+
+#poodle{
+    color: #64342D;
+    height: 420px;
+}
+
+#gif-poodle{
+    width: 10%;
+    height: auto;
+}
+
+
+
+#pug{
+    background-color: #ff9531;
+    color: #64342D;
+    height: 380px;
+}
+
+#bulldog-ingles{
+    color: #64342D;
+    height: 400px;
+}
+
+#pastor-alemao{
+    background-color: #ff9531;
+    color: #64342D;
+    height: 400px;
+}
+
+ /*é do Gabriel*/
