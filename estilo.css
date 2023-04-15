@@ -116,4 +116,32 @@ body{
     height: 400px;
 }
 
+#labrador{
+    color: #64342D;
+    height: 400px;
+}
+
+#gif-labrador{
+    width: 15%;
+}
+
+#rotwailer{
+    background-color: #ff9531;
+    color: #64342D;
+    height: 400px;
+}
+
+#dalmata{
+    color: #64342D;
+    height: 400px;
+}
+
+#gif-dalmata{
+    width: 15%;
+}
+
+#curiosidades{
+    color: #113a61;
+}
+
  /*é do Gabriel*/
